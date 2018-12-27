@@ -1,0 +1,10 @@
+D:\Cube3D\Cube3D\bin\Release\Cube3D.exe.config
+D:\Cube3D\Cube3D\bin\Release\Cube3D.exe
+D:\Cube3D\Cube3D\bin\Release\Cube3D.pdb
+D:\Cube3D\Cube3D\obj\Release\Cube3D.Properties.Resources.resources
+D:\Cube3D\Cube3D\obj\Release\Cube3D.csproj.GenerateResource.cache
+D:\Cube3D\Cube3D\obj\Release\Cube3D.csproj.CoreCompileInputs.cache
+D:\Cube3D\Cube3D\obj\Release\Cube3D.exe
+D:\Cube3D\Cube3D\obj\Release\Cube3D.pdb
+D:\Cube3D\Cube3D\obj\Release\Cube3D.csprojAssemblyReference.cache
+D:\Cube3D\Cube3D\obj\Release\Cube3D.MainForm.resources
