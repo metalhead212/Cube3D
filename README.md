@@ -13,7 +13,7 @@
 /eng
 Task:
 Make a model of cube in 3D space and show it on the screen.
-You are NOT allowed to use specialized graphics libraries or frameworks such as DirectX, OpenGL etc.
+You are NOT allowed to use special graphics libraries or frameworks such as DirectX, OpenGL etc.
 Application must let user:
   - rotate cube around any of 3 axis (OX, OY, OZ);
   - edit color of any choosen face (polygon);
