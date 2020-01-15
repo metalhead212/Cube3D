@@ -1,1 +1,6 @@
 .vs/
+*.user
+*.exe
+*.pdb
+*.cache
+/Cube3D/obj/Debug/Cube3D.csproj.FileListAbsolute.txt
